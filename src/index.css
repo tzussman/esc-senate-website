@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Lovelo Black */
+@font-face {
+  font-family: 'Lovelo Black';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lovelo Black'), local('Lovelo Black'),
+    url('./resources/fonts/Lovelo-Black.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./resources/fonts/Lovelo-Black.woff') format('woff');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

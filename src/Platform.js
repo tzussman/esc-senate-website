@@ -3,7 +3,7 @@ import { Accordion, AccordionSummary, AccordionDetails } from '@material-ui/core
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 const PlatformDiv = styled.div`
-  margin: 0 100px 50px 100px;
+  margin: 0 5vw 50px 5vw;
 `;
 
 function Platform() {
@@ -11,7 +11,7 @@ function Platform() {
     <PlatformDiv>
       <Accordion>
         <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
+          expandIcon={<ExpandMoreIcon/>}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
@@ -26,7 +26,7 @@ function Platform() {
 
       <Accordion>
         <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
+          expandIcon={<ExpandMoreIcon/>}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
@@ -36,17 +36,17 @@ function Platform() {
           Columbia offers a ton of resources through CUIT and the Library, such as free software, seminars on Python and High Performance Computing led by experts, and servers available for student use. However, very few students take full advantage of these programs. I want to raise awareness and find ways to expand these initiatives, so that students can get a leg up on classes, research, or their own personal projects.
         </AccordionDetails>
       </Accordion>
-      
+
       <Accordion>
         <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
+          expandIcon={<ExpandMoreIcon/>}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
           Pandemic
         </AccordionSummary>
         <AccordionDetails>
-          Due to the inequities in online learning, not all students will be in the same positions coming into next year. I plan to work closely with the other members of ESC to ensure that all students have a fair shot at success by developing potential policies for accommodations. Additionally, I will push for Columbia to keep recording lectures, even when in-person classes resume.
+          Due to the inequities inherent in online learning, not all students will be in the same position coming into next year. I plan to work closely with the other members of ESC to ensure that all students have a fair shot at success by developing potential policies for accommodations. Additionally, I will push for Columbia to keep recording lectures, even when in-person classes resume.
         </AccordionDetails>
       </Accordion>
     </PlatformDiv>

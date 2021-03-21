@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Desktop, MobileAndTablet } from "react-responsive-simple";
 
 const LogoDiv = styled.div`
   width: 100vw;
@@ -17,10 +18,23 @@ const LogoText = styled.h1`
   margin-bottom: 40px;
 `;
 
+const LogoTextMobile = styled.h1`
+  font-family: 'Lovelo Black', 'Roboto', 'Helvetica Neue', sans-serif;
+  color: white;
+  font-size: 5em;
+  margin-bottom: 40px;
+`;
+
 function Logo() {
     return(
       <LogoDiv>
-        <LogoText> TAL<br/>FOR<br/>SENATE </LogoText>
+        <Desktop>
+          <LogoText>TAL<br/>FOR<br/>SENATE</LogoText>
+        </Desktop>
+        
+        <MobileAndTablet>
+          <LogoTextMobile>TAL<br/>FOR<br/>SENATE</LogoTextMobile>
+        </MobileAndTablet>
       </LogoDiv>
     );
 }

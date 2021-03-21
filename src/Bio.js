@@ -54,8 +54,8 @@ const BioTextBottomMobile = styled.p`
 `;
 
 const ProfilePic = styled.img`
-  width: 18%;
-  height: 18%;
+  width: 18vw;
+  height: 18vw;
   margin: 0 0 20px 20px;
 `;
 

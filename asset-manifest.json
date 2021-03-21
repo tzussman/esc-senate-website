@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tal4senate.com/static/css/main.dcca89e3.chunk.css",
-    "main.js": "/tal4senate.com/static/js/main.9f86dbd8.chunk.js",
-    "main.js.map": "/tal4senate.com/static/js/main.9f86dbd8.chunk.js.map",
-    "runtime-main.js": "/tal4senate.com/static/js/runtime-main.de0d17b6.js",
-    "runtime-main.js.map": "/tal4senate.com/static/js/runtime-main.de0d17b6.js.map",
-    "static/js/2.30c6c57b.chunk.js": "/tal4senate.com/static/js/2.30c6c57b.chunk.js",
-    "static/js/2.30c6c57b.chunk.js.map": "/tal4senate.com/static/js/2.30c6c57b.chunk.js.map",
-    "static/js/3.33127c32.chunk.js": "/tal4senate.com/static/js/3.33127c32.chunk.js",
-    "static/js/3.33127c32.chunk.js.map": "/tal4senate.com/static/js/3.33127c32.chunk.js.map",
-    "index.html": "/tal4senate.com/index.html",
-    "static/css/main.dcca89e3.chunk.css.map": "/tal4senate.com/static/css/main.dcca89e3.chunk.css.map",
-    "static/js/2.30c6c57b.chunk.js.LICENSE.txt": "/tal4senate.com/static/js/2.30c6c57b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/tal4senate.com/static/media/Lovelo-Black.f9f7238f.woff2"
+    "main.css": "/static/css/main.b8a36bb2.chunk.css",
+    "main.js": "/static/js/main.9f86dbd8.chunk.js",
+    "main.js.map": "/static/js/main.9f86dbd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.263df05a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.263df05a.js.map",
+    "static/js/2.d30b6829.chunk.js": "/static/js/2.d30b6829.chunk.js",
+    "static/js/2.d30b6829.chunk.js.map": "/static/js/2.d30b6829.chunk.js.map",
+    "static/js/3.33127c32.chunk.js": "/static/js/3.33127c32.chunk.js",
+    "static/js/3.33127c32.chunk.js.map": "/static/js/3.33127c32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b8a36bb2.chunk.css.map": "/static/css/main.b8a36bb2.chunk.css.map",
+    "static/js/2.d30b6829.chunk.js.LICENSE.txt": "/static/js/2.d30b6829.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Lovelo-Black.f9f7238f.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.de0d17b6.js",
-    "static/js/2.30c6c57b.chunk.js",
-    "static/css/main.dcca89e3.chunk.css",
+    "static/js/runtime-main.263df05a.js",
+    "static/js/2.d30b6829.chunk.js",
+    "static/css/main.b8a36bb2.chunk.css",
     "static/js/main.9f86dbd8.chunk.js"
   ]
 }

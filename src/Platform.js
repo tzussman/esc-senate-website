@@ -6,9 +6,17 @@ const PlatformDiv = styled.div`
   margin: 0 5vw 50px 5vw;
 `;
 
+const PlatformText = styled.p`
+  font-family: 'Lovelo Black', 'Roboto', 'Helvetica Neue', sans-serif;
+  color: white;
+  font-size: 2em;
+  margin-bottom: 10px;
+`;
+
 function Platform() {
   return (
     <PlatformDiv>
+      <PlatformText>PLATFORM:</PlatformText>
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon/>}

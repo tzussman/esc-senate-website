@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/esc-senate-website/static/css/main.10a55ed4.chunk.css",
-    "main.js": "/esc-senate-website/static/js/main.9f86dbd8.chunk.js",
-    "main.js.map": "/esc-senate-website/static/js/main.9f86dbd8.chunk.js.map",
-    "runtime-main.js": "/esc-senate-website/static/js/runtime-main.5b7f5dea.js",
-    "runtime-main.js.map": "/esc-senate-website/static/js/runtime-main.5b7f5dea.js.map",
-    "static/js/2.a834bfc7.chunk.js": "/esc-senate-website/static/js/2.a834bfc7.chunk.js",
-    "static/js/2.a834bfc7.chunk.js.map": "/esc-senate-website/static/js/2.a834bfc7.chunk.js.map",
-    "static/js/3.33127c32.chunk.js": "/esc-senate-website/static/js/3.33127c32.chunk.js",
-    "static/js/3.33127c32.chunk.js.map": "/esc-senate-website/static/js/3.33127c32.chunk.js.map",
-    "index.html": "/esc-senate-website/index.html",
-    "static/css/main.10a55ed4.chunk.css.map": "/esc-senate-website/static/css/main.10a55ed4.chunk.css.map",
-    "static/js/2.a834bfc7.chunk.js.LICENSE.txt": "/esc-senate-website/static/js/2.a834bfc7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/esc-senate-website/static/media/Lovelo-Black.f9f7238f.woff2"
+    "main.css": "/tal4senate.com/static/css/main.dcca89e3.chunk.css",
+    "main.js": "/tal4senate.com/static/js/main.9f86dbd8.chunk.js",
+    "main.js.map": "/tal4senate.com/static/js/main.9f86dbd8.chunk.js.map",
+    "runtime-main.js": "/tal4senate.com/static/js/runtime-main.de0d17b6.js",
+    "runtime-main.js.map": "/tal4senate.com/static/js/runtime-main.de0d17b6.js.map",
+    "static/js/2.30c6c57b.chunk.js": "/tal4senate.com/static/js/2.30c6c57b.chunk.js",
+    "static/js/2.30c6c57b.chunk.js.map": "/tal4senate.com/static/js/2.30c6c57b.chunk.js.map",
+    "static/js/3.33127c32.chunk.js": "/tal4senate.com/static/js/3.33127c32.chunk.js",
+    "static/js/3.33127c32.chunk.js.map": "/tal4senate.com/static/js/3.33127c32.chunk.js.map",
+    "index.html": "/tal4senate.com/index.html",
+    "static/css/main.dcca89e3.chunk.css.map": "/tal4senate.com/static/css/main.dcca89e3.chunk.css.map",
+    "static/js/2.30c6c57b.chunk.js.LICENSE.txt": "/tal4senate.com/static/js/2.30c6c57b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tal4senate.com/static/media/Lovelo-Black.f9f7238f.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b7f5dea.js",
-    "static/js/2.a834bfc7.chunk.js",
-    "static/css/main.10a55ed4.chunk.css",
+    "static/js/runtime-main.de0d17b6.js",
+    "static/js/2.30c6c57b.chunk.js",
+    "static/css/main.dcca89e3.chunk.css",
     "static/js/main.9f86dbd8.chunk.js"
   ]
 }

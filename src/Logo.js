@@ -15,7 +15,7 @@ const LogoText = styled.h1`
   font-family: 'Lovelo Black', 'Roboto', 'Helvetica Neue', sans-serif;
   color: white;
   font-size: 9em;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 `;
 
 const LogoTextMobile = styled.h1`
@@ -31,7 +31,7 @@ function Logo() {
         <Desktop>
           <LogoText>TAL<br/>FOR<br/>SENATE</LogoText>
         </Desktop>
-        
+
         <MobileAndTablet>
           <LogoTextMobile>TAL<br/>FOR<br/>SENATE</LogoTextMobile>
         </MobileAndTablet>
